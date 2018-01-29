@@ -1,1 +1,104 @@
 
+<html>
+<head>
+<title> Curriculum Vitae </title>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body style="background-color:blue(0, 100%, 90%);"> 
+
+<center><h2 style="color:blue;">Curriculum Vitae<br/>of</h2></center>
+<img src="fahim.jpg"  style="width:130px;height:130px;" align="right"/>
+<center><h3 >MD.FAHIM AHMED<br>Cell: 01941739099<br>4,Nawab Street,Wari, Dhaka<br>Email:Fahimshovon.sh@gmail.com</h3></center>
+<h3 style="color:red;"> Career Objective :</h3>
+<p> Seeking for an electrical engineering position to apply my academic knowledge, work experiences, micro and macro skills to work on innovative and target oriented projects in the field of   Banglalink </p>
+<h3 style="color:red;"> EDUCATIONAL PROFILE :</h3>
+<table style="width:100%">
+	<tr>
+		<th> Degree </th>
+		<th>Bsc in CIS</th>
+		<th>HSC</th>
+		<th>SSC</th>
+	</tr>
+	<tr>
+		<td>CGPA</td>
+		<td> 3.85</td>
+		<td>5.00</td>
+		<td>5.00</td>
+	</tr>
+	<tr>
+		<td>Passing Year</td>
+		<td>2015</td>
+		<td>2011</td>
+		<td>2009</td>
+	</tr>
+	<tr>
+		<td>Institute</td>
+		<td>American International University-Bangladesh (AIUB)</td>
+		<td> University Laboratory School & College</td>
+		<td>Nawabpur Govt.High School</td>
+	</tr>
+</table>
+<h3 style="color:red;">POSITION WANTED: <h3>
+<p> Enterprise Applications Executive.</p>
+<h3 style="color:red;">WORK EXPERIENCE :  <h3>
+<p> Currently working as a Web Developer and Designer at Link3 Technology ltd, Dhaka (from September, 2016 to present date).</p>
+<h4 style="color:Green;"><b>COMPUTER EXPERTISE: </b>  <h4>
+<ul style="list-style-type:disc">
+	<li>SQL, PL/SQL, Linux Shell Scripting.</li>
+	<li>Network & System Security </li>
+	<li>Programing Language (C, C++, Java) </li>
+	<li>Photoshop, Illustrator.</li>
+</ul>
+<h4 style="color:Green;"><b>CERTIFICATION:</b>  <h4>
+<ul style="list-style-type:disc">
+	<li>Certified as a cisco network engineer </li>
+</ul>
+<h4 style="color:Green;"><b>PARTICIPATION:</b>  <h4>
+<ul style="list-style-type:disc">
+	<li>Participated in Interuniversity App Contest in Deffodil University .</li>
+	<li>Participated in AIUB CS Festival </li>
+	<li>Participated in different Science Fair during school, college life. </li>
+</ul>
+<h4 style="color:Green;"><b>LANGUAGE PROFICIENCY: </b>  <h4>
+<ul style="list-style-type:disc">
+	<li>Excellent written and Oral competence both English and Bengali.</li>
+</ul>
+<h4 style="color:Green;"><b>COMPUTER SKILLS: </b>  <h4>
+<ul style="list-style-type:disc">
+	<li>C, C++, Java </li>
+	<li>Data structure </li>
+	<li>Web developing</li>
+</ul>
+<h4 style="color:Green;"><b>STRENGTH: </b>  <h4>
+<ul style="list-style-type:disc">
+	<li>Able t to adapt with any environment easily. </li>
+	<li>Self confident and self motivation .</li>
+</ul>
+<h4 style="color:Green;"><b>CO-CURRICULAR ACTIVITIES: </b>  <h4>
+<ul style="list-style-type:disc">
+	<li>Participated in Creative writing, Science fiction, Caption writing, Picture analyzing…. events at National level. </li>
+	<li>Active participation in organizing the events held at our college.</li>
+</ul>
+<h3 style="color:Red;"><b>REFERENCES:</b>  <h3>
+<ul style="list-style-type:disc">
+	<li>Mosiur Rahman </li>
+</ul>
+<h5>Departmental head of Computer Science </h5>
+<h5>Director Office of Student Affairs (OSA) </h5>
+<h5>American International University-Bangladesh</h5>
+<h5> Email : mosiur.rahman@aiub.edu </h5>
+<ul style="list-style-type:disc">
+	<li>Dr. Dipak Talukder</li>
+</ul>
+<h5> Deputy Director, Health & Family Planning Dept. Uttara Dhaka, Bangladesh. </h5>
+<h5> Mobile: +8801819328449. </h5>
+<h5>American International University-Bangladesh</h5>
+<h5> Email : dipaktalukder@gmail.com. </h5>
+<h3 style="color:Red;"><b>SIGNATURE:</b>  <h3>
+<h4><b> FAHIM </b></h4>
+</body>
+</html>
